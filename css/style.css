@@ -1,0 +1,46 @@
+.platform-settings-wrap {
+	box-shadow: inset 0 0 15px 10px rgba(202, 202, 202, 0.2);
+	padding: 15px 30px;
+	margin-bottom: 30px;
+}
+.mpc-field {
+	max-width: 675px;
+	margin-bottom: 15px;
+}
+.mpc-field label {
+	width: 110px;
+	display: inline-block;
+}
+.mpc-field input, .mpc-field select {
+	width: calc(100% - 120px);
+}
+.mpc-auth-button {
+	margin-bottom: 25px;
+}
+.mpc-form-submit {
+	margin-bottom: 30px;
+}
+.mpc-auth-button, .mpc-form-submit {
+	padding-left: 115px;
+}
+.mpc-heading {
+	margin-bottom: 15px;
+}
+.mpc-title {
+	text-align: center;
+}
+.wrap .mpc-title {
+	font-size: 28px;
+	font-weight: 600;
+	padding-bottom: 20px;
+}
+.mpc-notice {
+	margin-bottom: 20px;
+}
+.mpc-notice strong {
+	width: 110px;
+	display: inline-block;
+}
+.imp-note {
+	color: #f00;
+}
